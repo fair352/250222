@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+}
+
+
+img{
+    width:50%;
+    margin-left: 100px;
+}
+  .wrapper{
+    display: inline-block;
+    padding-top:50px;
+  }
+
+
+.container{
+    margin-left: 16px;
+    margin-top: 16px;}
+
+    ul{
+        background-color: beige;
+    }
+     
